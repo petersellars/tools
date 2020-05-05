@@ -12,7 +12,16 @@ organise information.
 * __[Terragrunt](https://terragrunt.gruntwork.io/)__
 * __[Terratest](https://terratest.gruntwork.io/)__
 
+### Source Control
+
+* __[GitHub](https://github.com/)__
+
 ## Organisation Tools
 
 * __[Evernote](https://evernote.com/)__
   * [Evernote Templates](https://evernote.com/templates)
+
+## Presentation Tools
+
+* __[reveal.js](https://revealjs.com/)__
+  * [reveal.js GitHub](https://github.com/hakimel/reveal.js)
